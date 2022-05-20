@@ -1,0 +1,63 @@
+Disponibilidad_hidrica,Vulnerabilidad_subterranea,Usos_agua_superficial,Cuerpos_agua,Zonas_inundables,Usos_suelo,Pendientes,ANP,Localidades,Zona_riego,Erosion,Clave,Descripcion
+,,,1,,,,,,1,,Ag.01,Los sedimentos extraídos de los canales de riego deberán incorporarse a las tierras de cultivo
+,,3,,,3,,,,,,Ag.02,Los predios de monocultivos deberán implementar esquemas para el descanso de tierras y/o rotación periódica de cultivos.
+2,,3,,1,3,,,,,,Ag.03,"Deberán evitarse las quemas en las parcelas agropecuarias. En caso de llevarse a cabo, se realizarán abriendo una brecha corta alrededor del predio, siguiendo la calendarización establecida  y conforme a las recomendaciones establecidas en la NOM-015 SEMARNAT/SAGARPA-2007, dando siempre previo aviso a la autoridad competente."
+"0,1",1,3,,,3,,,,,,Ag.04,"Los procesos de fertilización del suelo deberán incorporar anualmente material orgánico como gallinaza, estiércol, composta o abonos verdes como leguminosas."
+,,3,,1,3,,,,,,Ag.05,"En las unidades de producción se deberá establecer el cultivo de coberteras al final de cada ciclo, mismo que será utilizado en el siguiente como abono verde o como forraje."
+3,,,,1,"2, 3",,,,,,Ag.06,"Se restringe la extensión de pastizales y a su vez,  la introducción de pastizales invasivos debido al riesgo del aumento de incendios, la potencial deforestación de la selva y la reducción a la resiliencia ante el cambio climático"
+4,,,,1,"2, 3","0, 1, 2",,,,,Ag.07,"Se deberá mantener una franja de cercos vivos o barreras verdes en los perímetros de las áreas y/o predios agrícolas. Éstas deberán conectarse con cercos o barreras de otras áreas, tanto agrícolas como silvestres, para mitigar la erosión y favorecer la conectividad del hábitat."
+,,,,,,,,,,,Ag.08,El incremento en la superficie de producción agrícola o la apertura de más áreas de producción se limitará a la superficie considerada con la política de aprovechamiento agropecuario
+"0,1",,,,,,,,,,,Ag.09,Los canales de riego o drenes deben contar con trampas de sedimentos o desarenadores para evitar el azolve
+,1,,1,1,,,,,,,Ag.10,Solo se pueden emplear agroquímicos que estén autorizados por la COFEPRIS  
+"0,1",,,,,,,,,,,Ag.11,Desazolvar los canales de riego y eliminar la maleza periódicamente (mínimo una vez al año).
+,,,,,,,,,,,Ag.12,"En cultivos de ladera, se deberán implementar técnicas de conservación de suelo para disminuir los procesos erosivos y de degradación del mismo. "
+,,,,,,,,,,,Ag.13,Los residuos orgánicos del aprovechamiento agropecuario deben ser utilizados en el sitio para la fertilización de los suelos 
+,,,,,,,,,,,Ag.14,"En terrenos con pendiente superior al 5%, la orientación de los surcos del cultivo de agave deberán realizarse a la inversa de la pendiente conjuntamente trazando curvas de nivel para reducir las pérdidas de suelo por erosión hídrica."
+,,,1,1,,,,,,,Ag.15,"Los predios destinados al cultivo de agave deberán permitir la la floración de un 5% a 10% de la plantación, con el propósito de que éstas proporcionen néctar a las poblaciones de murciélagos magueyeros."
+,1,3,1,1,,,,,,,Ag.16,"en los nuevos desarrollos de agricultura bajo techo (invernadero) y/o aguacate, la apertura y el aprovechamiento de pozos de extracción de agua subterránea queda  condicionada a la aprobación de la autoridad  correspondiente."
+,1,,,,,,,,,,Ag.17,"Se prohibe el uso de cualquier agroquímico (pesticida, herbicida, fertilizante, etc.) en las zonas de alta infiltración, con el propósito de reducir el riesgo de contaminación del agua subterránea."
+,,,,,,,,,,,Ag.18,"En unidades de producción de temporal ubicadas en zonas susceptibles a la erosión o a la vulnerabilidad de agua subterránea, deberán establecerse cultivos de cobertura."
+,,,,,,,,,,,Ag.19,"En zonas con susceptibilidad a deslizamientos, erosión alta y muy alta, las actividades productivas deberán orientarse hacia prácticas agroforestales y silvopastoriles."
+"0,1",1,,,1,,,,,,,Ag.20,"Solo las microcuencas con déficit hídrico podrán ser receptoras de trasvases de otras microcuencas, siempre y cuando la microcuenca de origen no quede en déficit hídrico al realizar el trasvase."
+,,,,,,,,,,,Ag.21,"Los predios de agricultura intensiva y plantaciones, deberán elaborar un programa de manejo y monitoreo de las condiciones del suelo."
+,,,,,,,,,,,Ag.22,Se deberán incorporar coberturas orgánicas sobre el suelo por lo menos una vez al año para evitar la erosión.
+"0,1",1,,,,,,,,,,Ag.23,"La ampliación y apertura de zonas de riego se hará en función de la información disponible a partir del balance hídrico de la microcuenca señalado por el ordenamiento vigente (LAN 2016, art. 14, 14 BIS, 14 BIS 5, 14 BIS 6, 15 y 15 BIS)."
+"0,1",,3,1,1,,,,,,,Ag.24,"Las áreas de cultivo colindantes a las áreas urbanas deberán contar con una cerca perimetral de árboles y arbustos por parcela (Gobeille, Yavitt, Stalcup y Valenzuela, 2006;  Budowski, G. y Russo, Ricardo, 1993; Zamora, 2017; Young, 1997; Ríos et al., 2008). Conforme con las especificaciones de la NOM-062-SEMARNAT-1994."
+"0,1",,,,,,,,,,,Ag.25,
+,,,,,,,,,,,Ag.26,Se deberá mantener una franja de vegetación nativa sobre el perímetro de los predios de pastoreo y agrosilvopastoriles.
+,,,,,,,,,,,Ag.27,"Solo se permite la instalación y operación de agricultura bajo techo (invernaderos) y/o aguacate que cuente con una estrategia de gestión o plan de manejo de la totalidad de sus residuos, desde su generación hasta su disposición y/o tratamiento, así como un registro único estatal como generador de residuos de manejo especial, en conformidad con la legislación estatal y federal aplicable"
+,,,,,,,,,,,Ag.28,El establecimiento de nuevos cultivos de riego y los cultivos ya existentes deberán implementar sistemas eficientes de riego apropiados para la región.
+,,,,,,,,,,,Ag.29,"De ser autorizado un cambio de uso de suelo forestal a agropecuario, sólo se podrán realizar actividades silvopastoriles, agroforestales o agrosilvopastoriles."
+,,,,,,,,,,,Ag.30,No se permite el aumento de la superficie de cultivo sobre terrenos con suelos delgados con alta susceptibilidad a la erosión y pendientes mayores a 15% sin que se lleven a cabo medidas y técnicas de mitigación de erosión del suelo y enriquecimiento de la calidad del mismo.
+,,7,,1,,,,,,,Ag.31,"La persona que pretenda hacer uso del fuego, deberá a avisar a los vecinos del terreno antes de realizar la quema. En caso de que exista un calendario de quemas en el municipio, ejido y comunidad, deberá de inscribir la fecha en que pretende realizar la quema. "
+,,,,,,,,,,,Ag.32,La introducción de organismos genéticamente modificados queda condicionada a lo establecido en el  título cuarto de la ley de bioseguridad de organismos genéticamente modificados
+,,3,,1,,,,,,,Ag.33,Se deben mantener los acahuales dentro de los predios de aprovechamiento agropecuario.
+"0,1",1,3,,1,,,,,,,Ag.34,Las quemas agrícolas se realizarán de acuerdo a la clasificación establecida en el apartado 5 de la NORMA Oficial Mexicana NOM-015-SEMARNAT/SAGARPA-2007
+,,,,,,,,,,,Ag.35,"La técnica de quema de cultivos de caña no deberá ser utilizada, en cambio se deberá utilizar la cosecha en verde."
+"0,1",,,,,,,,,,,Ag.36,Las áreas de pastizales naturales o inducidos deberán emplear combinaciones de leguminosas y pastos seleccionados.
+"0,1",1,,,,,,,,,,Ag.37,Se debe mantener una franja mínima de 5 metros de ancho de vegetación nativa sobre el perímetro de los predios agrosilvopastoriles.
+,,,,,,,,,,,Ag.38,"En zonas con valor patrimonial, la preparación de suelos agrícolas con maquinaria deberá requerir la autorización de las autoridades competentes en la materia o asociaciones civiles autorizadas
+"
+,,7,,,,,,,,,Ag.39,Los productores que tengan esquemas que aseguren la conservación y el adecuado aprovechamiento de los recursos hídricos deben ser privilegiados por las acciones e inversiones públicas.
+,,7,,,,,,,,,Ag.40,"En áreas agrícolas cercanas a áreas de relevancia ecosistémica, la aplicación de pesticidas deberá ser muy localizada y de forma precisa, evitando la dispersión del producto."
+,,"1,3",,1,,,,,,,Ag.41,No se permite cambiar el uso de suelo forestal
+,,,,,,,,,,,Ag.42,"De acuerdo a las recomendaciones de la FAO el manejo de malezas deberá realizarse bajo los siguientes mecanismos: Rotación de cultivos, asociaciones de cultivos, cobertura viva y acolchado o mulch."
+,,,,,,,,,,,Ag.43,Solo se permitirá el desarrollo de nueva actividad agrícola en barbechos antiguos que aún no presenten arbolado.
+,1,,,,,,,,,,Ag.44,"En las unidades de producción de pastizales se deberán  implementar sistemas de manejo para un aprovechamiento eficiente y sustentable de los mismos, excluyendo el uso de especies exóticas, herbicidas y plaguicidas."
+,1,1,,,,,,,,,Ag.45,"Deberán evitarse las quemas en las parcelas agropecuarias. En caso de llevarse a cabo, nunca se realizarán en condiciones de mala calidad de aire, y siempre se seguirán las recomendaciones establecidas en la NOM-015 SEMARNAT/SAGARPA-2007."
+,,3,,,,,,,,,Ag.46,No se permitirá la apertura de más áreas de actividad agrícola.
+"0,1",1,7,,,,,,,,,Ag.47,"En aquellos predios donde ya se practica la agricultura de ladera se deberán establecer invariablemente los surcos siguiendo las curvas de nivel del terreno, y evitar esta práctica de agricultura en las pendientes iguales o mayores a 35%"
+,,,,,,,,,,,Ag.48,Los cultivos de agave fuera de la zona de aptitud alta para su cultivo deberán implementar técnicas de producción que mantengan cubierto el suelo entre el agave. 
+,,,,,,,,,,,Ag.49,En los cultivos se deben considerar en su diseño el establecimiento de zonas de amortiguamiento de vegetación riparia en las zonas aledañas de los cauces.
+,,,,,,,,,,,Ag.50,Se prohíbe toda actividad agrícola en la política correspondiente
+,,,,1,,,,,,,Ag.51,"Se prohíbe el uso de cualquier agroquímico, ya sean pesticidas (insecticidas, herbicidas, fungicidas y nematicidas) o fertilizantes sintéticos (incluyendo hormonas y otros agentes químicos de crecimiento)."
+"0,1",,,,,,,,,,,Ag.52,Los cultivos de agave deberán cubrir al menos el 50% del suelo entre el agave con algún otro cultivo compatible.
+"0,1",1,,,,,,,,,,Ag.53,"Los cultivos bajo techo (invernaderos) deberán aprovechar el agua de las escorrentías generadas por la precipitación en los mismos, o en su defecto, contar con obras que permitan la infiltración de las escorrentías (pozos de absorción, zanjas, etc.) sin que su calidad se vea afectada por agroquímicos."
+,,"3,7",,,,,,,,,Ag.54,Poner en marcha un programa de vigilancia a la salud para los trabajadores agrícolas que están en contacto con agroquímicos.
+,,,,,,,,,,,Ag.55,"Realizar control biológico de plagas, evitando el uso de agroquimicos."
+"0,1",1,,,,,,,,,,Ag.56,No se permiten proyectos agroindustriales 
+,,,,,,,,,,,Ag.57,"Los predios agropecuarios, que se encuentren en colindancia con áreas de conservación, áreas Naturales Protegidas o zonas urbanas, deberán mantener una franja mínima de 20 metros de ancho de vegetación nativa sobre el perímetro del predio."
+,,,,,,,,,,,Ag.58,En pendientes mayores al 10% se deberán retener los sedimentos con represamientos escalonados u otras obras de y prácticas de conservación de suelos.
+"0,1",,,,,,,,,,,Ag.59,"Se prohíbe la instalación de agricultura bajo techo en la Zona Núcleo 1 y 2 del Paisaje Agavero, con el fin de mantener la declaratoria de El Paisaje Agavero y las Antiguas Instalaciones de Tequila (UNESCO)"
+"0,1",,,,,,,,,,,Ag.60,"Los cultivos de agave fuera de la zona de aptitud alta para su cultivo, deberán implementar técnicas de producción que mantengan cubierta la superficie entre las diferentes plántulas de agave."
+"0,1",1,,,,,,,,,,Ag.61,Los nuevos desarrollos de agricultura bajo techo deberán contar con sistemas de captación de agua pluvial para aprovechar el 20% de la precipitación del sitio.
